@@ -1,0 +1,7 @@
+public class DataDemo
+{
+    public static void main(String[] vars)
+    {
+	System.out.println("test"
+    }
+}

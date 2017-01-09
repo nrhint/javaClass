@@ -1,0 +1,8 @@
+public class vars1
+{
+    public static void main(String[], args)
+    {
+	int Num =  26;
+	
+    }
+}
