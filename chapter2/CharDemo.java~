@@ -1,0 +1,7 @@
+public clss
+{
+    public static void main(String[] vars)
+    {
+	System.out.println("test")
+    }
+}

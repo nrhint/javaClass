@@ -1,0 +1,14 @@
+/*take input and display it*/
+import java.util.Scanner;
+
+public class IntDemo2
+{
+    public static void main(String[] vars)
+    {
+	int aInt;
+	Scanner input = new Scanner(System.in);
+	System.out.print("Enter a Int >> ");
+	aInt = input.nextInt();
+	System.out.prtintln(aInt);
+    }
+}
